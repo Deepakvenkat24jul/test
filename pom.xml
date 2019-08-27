@@ -5,7 +5,7 @@
 	<artifactId>hello-world-war</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
-	<name>Deepak_venkat</name>
+	<name>Hello_world_war_Deepak</name>
 	<description>Simplest possible Java Webapp</description>
 
 	<build>
